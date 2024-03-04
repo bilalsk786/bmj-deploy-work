@@ -11,6 +11,5 @@ app.listen(5000, ()=> {
 const data = [
     {
         name: "bilal"
-        
     }
 ]
