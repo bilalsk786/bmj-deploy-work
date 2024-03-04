@@ -13,3 +13,4 @@ const data = [
         name: "bilal"
     }
 ]
+app.get("/",(req,res)=> res.status(200).json(data))
